@@ -1,0 +1,22 @@
+{
+  "name": "package_name",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetsourire/npm-lab-v-000.git"
+  },
+  "author": "bk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweetsourire/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/sweetsourire/npm-lab-v-000#readme"
+}
